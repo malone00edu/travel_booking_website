@@ -1,5 +1,5 @@
 ## Rutgers CS-336
-Group 11 Members: Fayed Raza, Parth Vora, Taze Balbosa, and Gabby Capulong
+Group 11 Members: Fayed R., Parth V., Taze B., and Gabby C.
 
 # Online Travel Reservation System
 
